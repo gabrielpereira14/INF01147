@@ -1,0 +1,7 @@
+*/entrega
+*/entregaveis
+*.tgz
+*.o
+**/.vscode
+*.txt
+.vscode/** 
